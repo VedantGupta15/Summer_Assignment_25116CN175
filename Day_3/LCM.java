@@ -14,7 +14,7 @@ public class LCM
         {
             if(lcm%n1==0 && lcm%n2==0)
             {
-                System.err.println("LCM OF "+n1+" and "+n2+" is :"+lcm);
+                System.out.println("LCM OF "+n1+" and "+n2+" is :"+lcm);
                 break;
             }
             else{
